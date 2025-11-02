@@ -4,16 +4,34 @@
     <loc>https://abdallahhatem63.github.io/techspher/</loc>
     <priority>1.0</priority>
   </url>
+
   <url>
     <loc>https://abdallahhatem63.github.io/techspher/PixelPort.html</loc>
+    <priority>0.8</priority>
   </url>
+
   <url>
     <loc>https://abdallahhatem63.github.io/techspher/codio.html</loc>
+    <priority>0.8</priority>
   </url>
+
   <url>
     <loc>https://abdallahhatem63.github.io/techspher/pagebuilder-pro.html</loc>
+    <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://abdallahhatem63.github.io/techspher/cv%20Abdallah%20hatem</loc>
+    <loc>https://abdallahhatem63.github.io/techspher/cv%20Abdallah%20hatem.html</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://textfity.netlify.app/</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://weekup.netlify.app/</loc>
+    <priority>0.5</priority>
   </url>
 </urlset>
